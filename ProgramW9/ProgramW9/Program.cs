@@ -1,6 +1,6 @@
 ﻿using ProgramW9;
 
-var employee = new Employee("Adam", "K");
+var employee = new Employee("Miłosz", "K");
 employee.AddGrade(2);
 employee.AddGrade(7);
 employee.AddGrade(5);
